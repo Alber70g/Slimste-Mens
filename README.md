@@ -1,4 +1,4 @@
 Slimste-Mens
 ============
 
-Repository voor project groep A van Avans
+Repository voor project groep A van Avans.
