@@ -10,14 +10,14 @@ public class Controller extends JFrame {
 		super("SlimsteMens v" + Tools.Version);
 		
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		setBounds(0,0,800,600);
+		setBounds(0, 0, 800, 600);
 		setLayout(null);
 		setResizable(false);
 		
-		_initializeComponents();
+		initializeComponents();
 	}
 	
-	private void _initializeComponents() {
+	private void initializeComponents() {
 		
 		// TODO init window logic.
 		

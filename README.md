@@ -9,7 +9,6 @@ Conventies:
 	Binnen deze applicatie maken we qua notatie van variabelen, namen en andere code van de camelCasing
 	standaard. Dit houd in dat we ieder nieuw woord in een naam beginnen met een hoofdletter:
 	getAllPersonsWithPhoneNumber();
-	Let Op! De eerste letter is alleen een hoofdletter wanneer de variabele/methodenaam van het type 'public' is
 	
 	We maken gebruik van beschrijvende functienamen als getVariable(), setVariable(), countEntries()
 	en schrijven daarbij de woorden voluit.
