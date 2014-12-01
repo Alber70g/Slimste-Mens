@@ -13,7 +13,7 @@ Conventies:
 	We maken gebruik van beschrijvende functienamen als getVariable(), setVariable(), countEntries()
 	en schrijven daarbij de woorden voluit.
 	
-	In de code is Engels de voertaal, ook het commentaar. Bovenaan iedere functie is een 'Java-Doc block' te vinden
+	In de code is Engels de voertaal, ook het commentaar. Bovenaan iedere method is een 'Java-Doc block' te vinden
 	met daarin de beschrijving van de functionaliteit van de methode. Het is optioneel om variabelen te voorzien van
 	Java-Doc. 
 	
